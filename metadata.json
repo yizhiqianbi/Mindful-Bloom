@@ -1,0 +1,5 @@
+{
+  "name": "3D Blooming Flower",
+  "description": "A tranquil and warm 3D scene of a cartoon-style flower blooming, created with React, Three.js, and Tailwind CSS. Interact with the scene by dragging to rotate and scrolling to zoom.",
+  "requestFramePermissions": []
+}
